@@ -1,7 +1,7 @@
 `euclideanmst.js`
 ===============
 
-Simple implementation of the Euclidean Minimum Spanning Tree algorithm.
+Simple implementation of a Euclidean Minimum Spanning Tree algorithm.
 
 [Euclidean Minimum Spanning Tree](http://en.wikipedia.org/wiki/Euclidean_minimum_spanning_tree)
 
