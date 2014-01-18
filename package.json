@@ -1,0 +1,24 @@
+{
+  "name": "euclideanmst",
+  "version": "0.0.4",
+  "description": "A simple implementation of the Euclidean Minimum Spanning Tree algorithm",
+  "main": "euclideanmst.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abetusk/euclidean.js.git"
+  },
+  "dependencies": {
+    "delaunay": "0.4.0",
+    "kruskal": "0.0.4"
+  },
+  "keywords": [
+    "euclidean minimum spanning tree",
+    "graph",
+    "graph algorithm",
+    "minimum spanning tree"
+  ],
+  "author": {
+    "name": "abetusk"
+  },
+  "license": "GPLv3"
+}
