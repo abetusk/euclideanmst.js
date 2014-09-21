@@ -5,6 +5,11 @@ Simple implementation of a Euclidean Minimum Spanning Tree algorithm.
 
 [Euclidean Minimum Spanning Tree](http://en.wikipedia.org/wiki/Euclidean_minimum_spanning_tree)
 
+Install
+=====
+
+    npm install euclideanmst
+
 Usage
 =====
 
