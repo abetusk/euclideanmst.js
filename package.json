@@ -1,6 +1,6 @@
 {
   "name": "euclideanmst",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simple implementation of a Euclidean Minimum Spanning Tree algorithm",
   "main": "euclideanmst.js",
   "repository": {
