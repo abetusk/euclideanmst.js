@@ -15,7 +15,7 @@ Usage
 
 Here is an example of finding the minimum spanning three given in the example directory:
 
-![alt tag](example/euclideanmstExample.jpg)
+![alt tag](https://raw.githubusercontent.com/abetusk/euclideanmst.js/release/example/euclideanmstExample.jpg)
 
 See [example/example.js](https://github.com/abetusk/euclideanmst.js/blob/release/example/example.js) for a full example.  Here is an abridged version:
 
